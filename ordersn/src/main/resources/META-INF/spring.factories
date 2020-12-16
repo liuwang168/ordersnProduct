@@ -1,0 +1,3 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+com.hb.ordersn.register.NodeRegisterImp,\
+com.hb.ordersn.imp.OrderSnProductImp
